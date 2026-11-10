@@ -1,0 +1,14 @@
+{
+    "display_name": "Group Chat Character Prompt Prefix",
+    "loading_order": 11,
+    "requires": [],
+    "optional": [
+        "sd"
+    ],
+    "js": "index.js",
+    "css": "",
+    "author": "local",
+    "version": "1.0.0",
+    "homePage": "",
+    "auto_update": false
+}
